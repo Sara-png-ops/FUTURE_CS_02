@@ -1,1 +1,14 @@
+From: support@paypaI-security.com
+Subject: Urgent! Verify Your Account
 
+Dear Customer,
+
+Your account has been temporarily suspended.
+Click the link below to verify your account immediately:
+
+http://paypal-login-security.com
+
+Failure to verify within 24 hours will result in account closure.
+
+Thank you,
+Support Team
